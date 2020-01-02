@@ -4,3 +4,5 @@ Kazvam se Apostolova Dima.
 
 Rabotia po sledvashtata zadacha s razklonenia.
 Rabotia s branches.
+Rabotia s GitBash.
+
