@@ -4,3 +4,4 @@
 3.Pravim otnovo promiana.
 4.Sega shte obedinia promenite ot dvete razklonenia.
 
+Задача : Променете файла text.txt на Desktop
