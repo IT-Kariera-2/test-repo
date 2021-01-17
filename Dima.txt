@@ -5,3 +5,4 @@
 4.Sega shte obedinia promenite ot dvete razklonenia.
 5.Променям Dima.txt ot IT 2
 
+Задача : Променете файла text.txt на Desktop
