@@ -1,7 +1,0 @@
-1. Rabotia s GitBash.
-0.Kazvam se Dima Apostolova.
-2.Rabotia s vtoroto uprajnenie.
-3.Pravim otnovo promiana.
-4.Sega shte obedinia promenite ot dvete razklonenia.
-
-Задача : Променете файла text.txt на Desktop
